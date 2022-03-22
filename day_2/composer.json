@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/webservicelab",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Hegabovic",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "guzzlehttp/guzzle": "*"
+  },
+  "autoload": {
+    "classmap": ["Model","Utilitis"],
+    "files": ["config.php"]
+  }
+}

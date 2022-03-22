@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/v1/vendor/composer" />
+      <path value="$PROJECT_DIR$/v1/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/v1/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/v1/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/v1/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/v1/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/v1/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/v1/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/v1/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/v1/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/v1/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/v1/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/v1/vendor/illuminate/collections" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+</project>

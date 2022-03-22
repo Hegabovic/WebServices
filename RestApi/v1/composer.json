@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/v1",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Hegabovic",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "illuminate/database": "*"
+  },
+  "autoload": {
+    "classmap": ["Model","Helpers"],
+    "files": ["config.php"]
+  }
+}

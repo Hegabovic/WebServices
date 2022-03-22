@@ -1,0 +1,34 @@
+
+input
+{
+    height: 30px;
+    margin-left: 10px;
+}
+select
+{
+    height: 30px;
+    margin-left: 10px;
+}
+ul
+{
+    list-style: none;
+}
+.flex
+{
+    display: flex;
+    justify-content: center;
+}
+.flex-space-around
+{
+    justify-content: space-around;
+}
+#response-container
+{
+    padding: 25px;
+    border: solid 1px black;
+    border-radius: 25px;
+}
+.error
+{
+    color: red;
+}
